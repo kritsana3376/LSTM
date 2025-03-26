@@ -2,7 +2,7 @@
 Example code LSTM concept
 ## Installation
 
-[Install TensorFlow with pip](https://www.tensorflow.org/install/pip) to install .
+[Install TensorFlow with pip](https://www.tensorflow.org/install/pip)
 
 
 ## clone project
